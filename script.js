@@ -36,27 +36,25 @@ $(document).ready(function () {
   // typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "Wordpress Designer",
       "Front End Developer",
+      "Drupal & Wordpress Designer",
       "Digital Marketer",
-      "Cyber Psychologist",
-      "Content Writer"
+      "Paid Ads Google/FB"
     ],
-    typeSpeed: 100,
-    backSpeed: 60,
+    typeSpeed: 80,
+    backSpeed: 50,
     loop: true
   });
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Wordpress Designer",
       "Front End Developer",
+      "Drupal & Wordpress Designer",
       "Digital Marketer",
-      "Cyber Psychologist",
-      "Content Writer"
+      "Paid Ads Google/FB"
     ],
-    typeSpeed: 100,
-    backSpeed: 60,
+    typeSpeed: 80,
+    backSpeed: 50,
     loop: true
   });
 
@@ -66,6 +64,7 @@ $(document).ready(function () {
     loop: true,
     autoplay: true,
     autoplayTimeOut: 2000,
+    slideSpeed: 1000,
     autoplayHoverPause: true,
     responsive: {
       0: {
