@@ -541,6 +541,108 @@ section .title::after {
   color: crimson;
   background: none;
 }
+
+/* social icons section */
+.social-icons {
+  background-color: #b9bdbd52;
+  height: 60vh;
+  margin-top: 0px;
+}
+
+.icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 0.9rem;
+}
+
+.max-width-social {
+  max-width: 1300px;
+  padding: 0 0px;
+  margin-top: 2px;
+}
+
+section .title-social {
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 60px;
+  padding-bottom: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+section .title-social::before {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  width: 180px;
+  height: 3px;
+  background: #111;
+  transform: translateX(-50%);
+}
+section .title-social::after {
+  content: "Connect With Me";
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  font-size: 20px;
+  color: crimson;
+  padding: 0 5px;
+  background: #fffffff5;
+  transform: translateX(-50%);
+}
+
+/* .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: none;
+  text-decoration: none;
+} */
+
+.fab {
+  padding: 15px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 30%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #4267b2;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #1da1f2;
+  color: white;
+}
+
+.fa-github {
+  background: #171515;
+  color: white;
+}
+.fa-linkedin-in {
+  background: #0a66c2;
+  color: white;
+}
+.fa-whatsapp {
+  background: #12aa5e;
+  color: white;
+}
+
 /* footer section styling */
 footer {
   background: #111;
