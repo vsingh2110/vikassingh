@@ -37,8 +37,8 @@ $(document).ready(function () {
   var typed = new Typed(".typing", {
     strings: [
       "Front End Developer",
-      "Drupal & Wordpress Designer",
       "Digital Marketer",
+      "Wordpress and Shopify Designer",
       "Paid Ads Google/FB"
     ],
     typeSpeed: 80,
@@ -49,8 +49,8 @@ $(document).ready(function () {
   var typed = new Typed(".typing-2", {
     strings: [
       "Front End Developer",
-      "Drupal & Wordpress Designer",
       "Digital Marketer",
+      "Wordpress and Shopify Designer",
       "Paid Ads Google/FB"
     ],
     typeSpeed: 80,
