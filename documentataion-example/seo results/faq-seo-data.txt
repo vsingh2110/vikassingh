@@ -1,0 +1,385 @@
+ META SEO Inspector page analysis
+https://nextjs-phantom.vercel.app/faqs
+COMMON
+INFO head TITLE too long (>65 characters)
+INFO Canonical and page URL are different
+doctype
+<!DOCTYPE html>
+html lang
+en
+content type
+text/html
+canonical
+https://phantomhealthcare.com/faqs
+head title
+FAQs - Phantom Healthcare | Medical Imaging Equipment Questions | Phantom Healthcare
+(84 characters)
+description
+Frequently asked questions about refurbished MRI, CT scanners, pricing, warranty, installation, and services from Phantom Healthcare. Get answers now.
+(150 characters)
+keywords
+FAQ,refurbished MRI questions,CT scanner pricing,medical equipment warranty,Phantom Healthcare,MRI cost India
+( 6 items )
+INFO'keywords' meta tag is obsolete
+robots
+index, follow
+googlebot
+index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1
+SOCIAL
+
+WARNING og:image missing
+property
+og:title
+FAQs - Phantom Healthcare | Medical Imaging Equipment
+property
+og:description
+Get answers to common questions about refurbished MRI, CT scanners, warranty, and services.
+property
+og:url
+https://phantomhealthcare.com/faqs
+property
+og:site_name
+Phantom Healthcare
+property
+og:locale
+en_IN
+property
+og:type
+website
+twitter:card
+summary
+twitter:creator
+@Phantomhealthc
+twitter:title
+FAQs - Phantom Healthcare
+twitter:description
+Answers to questions about refurbished medical imaging equipment.
+STRUCTURED DATA
+The following is a rough representation of the found structured data, for more insights please test here:
+•
+Schema Markup Validator
+
+•
+Google Rich Results Test
+@type: BreadcrumbList
+@type: ListItem name: Home
+@type: ListItem name: FAQs
+@type: FAQPage
+@type: Question name: What medical imaging equipment does Phantom Healthcare provide?
+@type: Answer
+@type: Question name: What brands of MRI and CT scanners does Phantom Healthcare refurbish?
+@type: Answer
+@type: Question name: What is Phantom Healthcare's refurbishment process?
+@type: Answer
+@type: Question name: What is the typical cost of a refurbished MRI scanner in India?
+@type: Answer
+@type: Question name: What warranty does Phantom Healthcare offer on refurbished MRI machines?
+@type: Answer
+@type: Question name: Why choose refurbished medical imaging equipment from Phantom Healthcare?
+@type: Answer
+@type: Question name: Does Phantom Healthcare provide installation and after-sales service?
+@type: Answer
+@type: Question name: How quickly does Phantom Healthcare respond to service requests?
+@type: Answer
+@type: Question name: Can I schedule a site visit from Phantom Healthcare?
+@type: Answer
+@type: Question name: When was Phantom Healthcare established?
+@type: Answer
+@type: Question name: How many MRI and CT installations has Phantom Healthcare completed?
+@type: Answer
+@type: Question name: Who are the founders of Phantom Healthcare?
+@type: Answer
+@type: Question name: What certifications does Phantom Healthcare have?
+@type: Answer
+@type: Question name: Where is Phantom Healthcare located and which regions do they serve?
+@type: Answer
+@type: Question name: How can I contact Phantom Healthcare for a quote?
+@type: Answer
+@type: Question name: Does Phantom Healthcare have international offices?
+@type: Answer
+@type: Question name: What are Phantom Healthcare's business hours?
+@type: Answer
+@type: WebPage name: Frequently Asked Questions - Phantom Healthcare
+@type: SpeakableSpecification
+@type: Organization name: Phantom Healthcare IND Private Limited
+dc.title
+Phantom Healthcare - Medical Imaging Equipment
+dc.creator
+Phantom Healthcare IND Private Limited
+dc.subject
+Medical Imaging Equipment, MRI, CT Scanner, PET-CT
+dc.description
+India's leading provider of refurbished medical imaging equipment since 2011.
+dc.publisher
+Phantom Healthcare IND Private Limited
+dc.contributor
+Phantom Healthcare
+dc.date
+2011
+dc.type
+Service
+dc.format
+text/html
+dc.identifier
+https://phantomhealthcare.com
+dc.language
+en
+dc.coverage
+India, USA, UAE
+MOBILE
+handheldfriendly
+true
+mobileoptimized
+width
+mobile-web-app-capable
+yes
+apple-mobile-web-app-title
+Phantom Healthcare
+viewport
+width=device-width, initial-scale=1
+MARKUP
+
+<html>
+(1)
+
+<img>
+(6)
+
+<iframe>
+(1)
+
+h1 Frequently Asked Questions (26 characters)
+h2 Products & Equipment (20 characters)
+h3 What medical imaging equipment does Phantom Healthcare provide? (63 characters)
+h3 What brands of MRI and CT scanners does Phantom Healthcare refurbish? (69 characters)
+h3 What is Phantom Healthcare's refurbishment process? (51 characters)
+h3 Why choose refurbished medical imaging equipment from Phantom Healthcare? (73 characters)
+h2 Pricing & Warranty (18 characters)
+h3 What is the typical cost of a refurbished MRI scanner in India? (63 characters)
+h3 What warranty does Phantom Healthcare offer on refurbished MRI machines? (72 characters)
+h3 What payment terms does Phantom Healthcare offer? (49 characters)
+h2 Services & Support (18 characters)
+h3 Does Phantom Healthcare provide installation and after-sales service? (69 characters)
+h3 How quickly does Phantom Healthcare respond to service requests? (64 characters)
+h3 Can I schedule a site visit from Phantom Healthcare? (52 characters)
+h3 What is included in Phantom Healthcare's AMC (Annual Maintenance Contract)? (75 characters)
+h2 About Phantom Healthcare (24 characters)
+h3 When was Phantom Healthcare established? (40 characters)
+h3 How many MRI and CT installations has Phantom Healthcare completed? (67 characters)
+h3 Who are the founders of Phantom Healthcare? (43 characters)
+h3 What certifications does Phantom Healthcare have? (49 characters)
+h2 Contact & Location (18 characters)
+h3 How can I contact Phantom Healthcare for a quote? (49 characters)
+h3 Where is Phantom Healthcare located and which regions do they serve? (68 characters)
+h3 Does Phantom Healthcare have international offices? (51 characters)
+h3 What are Phantom Healthcare's business hours? (45 characters)
+h2 Still Have Questions? (21 characters)
+h4 Useful Links (12 characters) INFOfound h4, h3 expected
+h4 Our Services (12 characters)
+WARNING 24 links without anchor text or image
+internal
+ 
+(49)
+-
+external
+ 
+(26)
+-
+other
+ 
+(14)
+internal
+URL	REL	TEXT	TITLE	IMG
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/about		About Us		
+https://nextjs-phantom.vercel.app/faqs#		Products		
+https://nextjs-phantom.vercel.app/faqs#		MRI Scanner▶		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-ge-mri-scanner-machines		GE MRI		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-siemens-mri-scanner-machines		Siemens MRI		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-ct-scan-machines		CT Scanner		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-pet-ct-scanner-machines		PET-CT Scanner		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-cath-lab-machines		Cath-Lab		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-gamma-camera-spect-system-machine		Gamma Camera-SPECT		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-bone-densitometer-dexa		Bone Desnsitometer-DEXA		
+https://nextjs-phantom.vercel.app/faqs#		Services		
+https://nextjs-phantom.vercel.app/services#service-packages		Service Packages		
+https://nextjs-phantom.vercel.app/services#repairs-and-upgrdaes		Repairs and Upgrades		
+https://nextjs-phantom.vercel.app/spare-parts-and-inventory		Spare Parts and Inventory		
+https://nextjs-phantom.vercel.app/blogs		Blogs		
+https://nextjs-phantom.vercel.app/contact		Contact		
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/about		About Us		
+https://nextjs-phantom.vercel.app/blogs		Blogs		
+https://nextjs-phantom.vercel.app/contact		Contact		
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/faqs#products		Products & Equipment		
+https://nextjs-phantom.vercel.app/faqs#pricing		Pricing & Warranty		
+https://nextjs-phantom.vercel.app/faqs#services		Services		
+https://nextjs-phantom.vercel.app/faqs#company		Company		
+https://nextjs-phantom.vercel.app/faqs#contact		Contact & Location		
+https://nextjs-phantom.vercel.app/contact		Contact Us		
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/faqs#		1.5T MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		3.0T MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		Siemens MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		GE MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		CT Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		PET-CT Scanner Machines		
+https://nextjs-phantom.vercel.app/faqs#		News and Events		
+https://nextjs-phantom.vercel.app/faqs#		Blogs		
+https://nextjs-phantom.vercel.app/faqs#		CMC/AMC Packages For CT		
+https://nextjs-phantom.vercel.app/faqs#		CMC/AMC Packages For MRI		
+https://nextjs-phantom.vercel.app/faqs#		Equipment Installation		
+https://nextjs-phantom.vercel.app/faqs#		Site Planning & Construction		
+https://nextjs-phantom.vercel.app/faqs#		MRI Helium Filling		
+https://nextjs-phantom.vercel.app/faqs#		MRI De-Installation & Re-Installation		
+https://nextjs-phantom.vercel.app/privacy-policy		Privacy Policy		
+https://nextjs-phantom.vercel.app/faqs		FAQs		
+https://nextjs-phantom.vercel.app/terms-and-conditions		Terms & Conditions		
+https://nextjs-phantom.vercel.app/sitemap		Sitemap		
+external
+URL	REL	TEXT	TITLE	IMG
+https://twitter.com/Phantomhealthc				
+https://wa.me/+919899963601				
+https://www.youtube.com/@phantomhealthcare				
+https://goo.gl/maps/2fdRZT8hEBVK4cni9				
+https://www.instagram.com/phantomhealthcare/				
+https://www.facebook.com/phantom.healthcare.ind				
+https://www.pinterest.com/phantomhealthcare/				
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company				
+https://www.phantomis.co.in/		Employee Login		
+https://twitter.com/Phantomhealthc				
+https://wa.me/+919899963601				
+https://www.youtube.com/@phantomhealthcare				
+https://goo.gl/maps/2fdRZT8hEBVK4cni9				
+https://www.instagram.com/phantomhealthcare/				
+https://www.facebook.com/phantom.healthcare.ind				
+https://www.pinterest.com/phantomhealthcare/				
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company				
+https://www.phantomis.co.in/		Employee Login		
+https://wa.me/919899963601			Chat with us on WhatsApp	
+https://twitter.com/Phantomhealthc	noopener noreferrer			
+https://wa.me/919899963601	noopener noreferrer			
+https://www.youtube.com/@phantomhealthcare	noopener noreferrer			
+https://www.instagram.com/phantomhealthcare/	noopener noreferrer			
+https://www.facebook.com/phantom.healthcare.ind	noopener noreferrer			
+https://www.pinterest.com/phantomhealthcare/	noopener noreferrer			
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company	noopener noreferrer			
+other
+URL	REL	TEXT	TITLE	IMG
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+tel:+919899963601		Call +91 9899963601		
+tel:+919899963601		+91 9899963601		
+tel:+918384037073		+91 8384037073		
+tel:+911294312423		+91 129 4312423		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+mailto:biz@phantomhealthcare.com		biz@phantomhealthcare.com		
+tel:+919899963601		+91 9899963601		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+tel:+16307206801		+1 630 720 6801		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+tel:+971522208819		+971 522 208 819		
+mailto:sachin.rawat@phantomhealthcare.com		sachin.rawat@phantomhealthcare.com		
+INFO 6 images (out of 6) with missing TITLE attribute
+INFO 2 images (out of 6) with missing LOADING attribute
+SRC	SIZE	LOADING	FETCH PR.	ALT	TITLE
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Flogo.jpg&w=640&q=75
+SRCSET: available
+REAL	130x47
+HTML	222x80
+auto	Phantom Healthcare Logo	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Flogo.jpg&w=384&q=75
+SRCSET: available
+REAL	130x47
+HTML	155x56
+auto	Phantom Healthcare Logo	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fwhite-logo.png&w=384&q=75
+SRCSET: available
+REAL	192x115
+HTML	180x55
+lazy	auto	Phantom Healthcare	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Findia-flag.jpg&w=48&q=75
+SRCSET: available
+REAL	24x16
+HTML	24x16
+lazy	auto	India & Sub-Continent	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fusa-map.jpg&w=48&q=75
+SRCSET: available
+REAL	24x12
+HTML	24x16
+lazy	auto	USA & Western	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fuae-flag.jpg&w=48&q=75
+SRCSET: available
+REAL	24x16
+HTML	24x16
+lazy	auto	Gulf-Arab & African	
+SRC
+WIDTH
+HEIGHT
+LOADING
+ALLOWFULLSCREEN
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23594.600297204677!2d77.29099839249344!3d28.46875377374462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce746b47731c5%3A0x696a695f7e4c3ded!2sPhantom%20Healthcare%20Pvt%20Ltd.!5e0!3m2!1sen!2sin!4v1663418936010!5m2!1sen!2sin			lazy	true
+Doctype is HTML5, there are HTML5 tags and no obsolete HTML tags were found.
+★
+★
+★
+★
+★
+EXTERNAL RESOURCES
+
+5 items
+vercel.live			n.a.
+www.googletagmanager.com	(4)		ANALYTICS
+www.gstatic.com	(2)		CDN
+cdn.jsdelivr.net			DEV TOOLS
+connect.facebook.net	(2)		SOCIAL
+RESOURCE HINTS
+preload
+(as image) (fetchpriority=auto)
+preload
+(as image) (fetchpriority=auto)
+preload
+(as script) (fetchpriority=low)
+https://nextjs-phantom.vercel.app/_next/static/chunks/webpack-f0cd9998a051b730.js
+preload
+(as script) (fetchpriority=auto)
+https://www.googletagmanager.com/gtag/js?id=G-WKQZP6J4CR
+preconnect
+(fetchpriority=auto)
+https://fonts.googleapis.com/
+preconnect
+(fetchpriority=auto)
+https://fonts.gstatic.com/
+dns-prefetch
+(fetchpriority=auto)
+https://yt3.ggpht.com/
+preconnect
+(fetchpriority=auto)
+https://cdnjs.cloudflare.com/
+dns-prefetch
+(fetchpriority=auto)
+https://img.youtube.com/
+preload
+(as image) (fetchpriority=high)
+https://nextjs-phantom.vercel.app/images/slideshow/img1-mobile.jpg
+preload
+(as style) (fetchpriority=auto)
+https://nextjs-phantom.vercel.app/_next/static/css/772f6661360af590.css
+Url
+COMMON
+SOCIAL
+STRUCTURED DATA
+MOBILE
+MARKUP
+EXTERNAL RESOURCES
+RESOURCE HINTS
+print

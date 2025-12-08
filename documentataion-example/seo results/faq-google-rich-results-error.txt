@@ -1,0 +1,270 @@
+Test results
+
+FAQ
+error
+2 invalid items detected
+Invalid items are not eligible for Google Search's rich results. Learn more
+Details
+Crawl
+check_circle
+Crawled successfully on Dec 7, 2025, 7:43:33 PM
+Detected items
+error
+Unnamed item
+1 critical issue
+
+Duplicate field "FAQPage"
+type
+FAQPage
+mainEntity
+type
+Question
+name
+What medical imaging equipment does Phantom Healthcare provide?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare provides refurbished MRI Scanners (1.5T and 3.0T), CT Scanners, PET-CT systems, Cath Labs, Gamma Camera SPECT, and Bone Densitometers (DXA). We work with top brands including GE Healthcare, Siemens Healthineers, Philips, Canon, and Toshiba.
+mainEntity
+type
+Question
+name
+What brands of MRI and CT scanners does Phantom Healthcare refurbish?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare refurbishes and supplies equipment from leading manufacturers: GE Healthcare (Signa series), Siemens Healthineers (Magnetom, Somatom series), Philips (Achieva, Ingenia), Canon/Toshiba (Vantage, Aquilion), and Hitachi. We specialize in systems from 2015 onwards for optimal technology and spare parts availability.
+mainEntity
+type
+Question
+name
+What is Phantom Healthcare's refurbishment process?
+acceptedAnswer
+type
+Answer
+text
+Our refurbishment process includes: 150-point quality inspection, complete cosmetic restoration, replacement of worn components, software updates and calibration, rigorous testing protocols, and quality certification. Each machine is restored to near-original specifications before delivery.
+mainEntity
+type
+Question
+name
+What is the typical cost of a refurbished MRI scanner in India?
+acceptedAnswer
+type
+Answer
+text
+Refurbished MRI scanner prices in India vary based on field strength and brand. 1.5T MRI scanners typically range from ₹1.5 to ₹3 crore, while 3.0T MRI scanners range from ₹3 to ₹6 crore. Contact Phantom Healthcare for specific quotes as prices depend on model year, configuration, and current inventory.
+mainEntity
+type
+Question
+name
+What warranty does Phantom Healthcare offer on refurbished MRI machines?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare provides a 12-month comprehensive warranty on all refurbished MRI machines and CT scanners. The warranty covers parts and labor, with optional extended AMC (Annual Maintenance Contract) packages available for continued support.
+mainEntity
+type
+Question
+name
+Why choose refurbished medical imaging equipment from Phantom Healthcare?
+acceptedAnswer
+type
+Answer
+text
+Refurbished medical imaging equipment from Phantom Healthcare offers 40-60% cost savings compared to new equipment, with the same diagnostic quality. All equipment undergoes rigorous 150-point inspection, complete reconditioning, and comes with warranty. This makes advanced diagnostics accessible for tier-2/tier-3 cities and smaller healthcare facilities.
+mainEntity
+type
+Question
+name
+Does Phantom Healthcare provide installation and after-sales service?
+acceptedAnswer
+type
+Answer
+text
+Yes, Phantom Healthcare provides complete turnkey solutions including site planning, installation, commissioning, operator training, and ongoing technical support. We have service centers in Faridabad (HQ), Mumbai, Chennai, and Kolkata, enabling pan-India service response within 24-48 hours.
+mainEntity
+type
+Question
+name
+How quickly does Phantom Healthcare respond to service requests?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare provides service response within 24-48 hours across India through our service centers in Faridabad, Mumbai, Chennai, and Kolkata. For AMC customers, we offer priority response and remote diagnostic support for faster resolution.
+mainEntity
+type
+Question
+name
+Can I schedule a site visit from Phantom Healthcare?
+acceptedAnswer
+type
+Answer
+text
+Yes, Phantom Healthcare offers free site visits for serious inquiries. Our technical team will visit your facility to assess site requirements, provide recommendations for equipment selection, and prepare a detailed quotation. Contact us at biz@phantomhealthcare.com to schedule a visit.
+mainEntity
+type
+Question
+name
+When was Phantom Healthcare established?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare was established in 2011 in Faridabad, Haryana, India. Over the past 13+ years, we have grown to become one of India's leading providers of refurbished medical imaging equipment with 170+ installations and 150+ satisfied clients.
+mainEntity
+type
+Question
+name
+How many MRI and CT installations has Phantom Healthcare completed?
+acceptedAnswer
+type
+Answer
+text
+Since 2011, Phantom Healthcare has completed over 170 successful medical imaging equipment installations across India, serving more than 150 satisfied clients including major hospital chains like Apollo, Fortis, Max Healthcare, and Narayana Health.
+mainEntity
+type
+Question
+name
+Who are the founders of Phantom Healthcare?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare was founded by Rochi Nargotra (Director & CEO) and Brijesh Suneja (Managing Director). Both founders bring decades of experience in the medical imaging industry and continue to lead the company's growth and innovation.
+mainEntity
+type
+Question
+name
+What certifications does Phantom Healthcare have?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare maintains ISO certifications for quality management and follows international standards for medical equipment refurbishment. All equipment meets AERB (Atomic Energy Regulatory Board) requirements for radiation equipment in India.
+mainEntity
+type
+Question
+name
+Where is Phantom Healthcare located and which regions do they serve?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare is headquartered in Faridabad, Haryana, India (near Delhi NCR). We serve clients across India, USA (Illinois office), and UAE/Middle East (Sharjah office). Our pan-India service network ensures support for clients in all states.
+mainEntity
+type
+Question
+name
+How can I contact Phantom Healthcare for a quote?
+acceptedAnswer
+type
+Answer
+text
+You can contact Phantom Healthcare for a quote by: Phone: +91 9899963601 (Sales) or +91 129-4312423 (Office), Email: biz@phantomhealthcare.com, WhatsApp: +91 9899963601, or fill out the contact form on our website. We typically respond within 24 hours on business days.
+mainEntity
+type
+Question
+name
+Does Phantom Healthcare have international offices?
+acceptedAnswer
+type
+Answer
+text
+Yes, Phantom Healthcare has international offices in: USA - 620 Progress Dr, Glendale Heights, Illinois 60139 (Phone: +1 630-720-6801), and UAE - LV 63-C, Al Hamriyah Freezone, Sharjah (Phone: +971 522 208 819). These offices serve customers in North America and the Middle East/Africa regions.
+mainEntity
+type
+Question
+name
+What are Phantom Healthcare's business hours?
+acceptedAnswer
+type
+Answer
+text
+Phantom Healthcare's India office operates Monday to Saturday, 9:00 AM to 6:00 PM IST. For urgent service requests, our 24/7 emergency helpline is available at +91 8545815483. US and UAE offices operate in their respective local business hours.
+error
+Unnamed item
+2 critical issues
+
+Invalid object type for field "mainEntity"
+Duplicate field "FAQPage"
+type
+FAQPage
+name
+Frequently Asked Questions - Phantom Healthcare
+url
+https://phantomhealthcare.com/faqs
+speakable
+type
+SpeakableSpecification
+cssSelector
+h1
+cssSelector
+h2
+cssSelector
+h3
+value
+Frequently Asked Questions
+value
+Products & Equipment
+value
+What medical imaging equipment does Phantom Healthcare provide?
+value
+What brands of MRI and CT scanners does Phantom Healthcare refurbish?
+value
+What is Phantom Healthcare's refurbishment process?
+value
+Why choose refurbished medical imaging equipment from Phantom Healthcare?
+value
+Pricing & Warranty
+value
+What is the typical cost of a refurbished MRI scanner in India?
+value
+What warranty does Phantom Healthcare offer on refurbished MRI machines?
+value
+What payment terms does Phantom Healthcare offer?
+value
+Services & Support
+value
+Does Phantom Healthcare provide installation and after-sales service?
+value
+How quickly does Phantom Healthcare respond to service requests?
+value
+Can I schedule a site visit from Phantom Healthcare?
+value
+What is included in Phantom Healthcare's AMC (Annual Maintenance Contract)?
+value
+About Phantom Healthcare
+value
+When was Phantom Healthcare established?
+value
+How many MRI and CT installations has Phantom Healthcare completed?
+value
+Who are the founders of Phantom Healthcare?
+value
+What certifications does Phantom Healthcare have?
+value
+Contact & Location
+value
+How can I contact Phantom Healthcare for a quote?
+value
+Where is Phantom Healthcare located and which regions do they serve?
+value
+Does Phantom Healthcare have international offices?
+value
+What are Phantom Healthcare's business hours?
+value
+Still Have Questions?
+mainEntity
+type
+Organization
+name
+Phantom Healthcare IND Private Limited
+description
+Find answers to frequently asked questions about Phantom Healthcare's refurbished MRI scanners, CT scanners, pricing, warranty, installation services, and company information.
+url
+https://phantomhealthcare.com/

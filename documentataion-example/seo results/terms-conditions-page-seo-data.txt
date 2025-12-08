@@ -1,0 +1,349 @@
+ META SEO Inspector page analysis
+https://nextjs-phantom.vercel.app/terms-and-conditions
+COMMON
+INFO head TITLE too long (>65 characters)
+INFO Canonical and page URL are different
+doctype
+<!DOCTYPE html>
+html lang
+en
+content type
+text/html
+canonical
+https://phantomhealthcare.com/terms-and-conditions
+head title
+Terms & Conditions - Phantom Healthcare | Service Agreement | Phantom Healthcare
+(80 characters)
+description
+Terms and Conditions for Phantom Healthcare. Read our policies on equipment sales, warranty, installation, AMC services, and customer responsibilities.
+(151 characters)
+keywords
+terms and conditions,service agreement,Phantom Healthcare,warranty terms,AMC terms
+( 5 items )
+INFO'keywords' meta tag is obsolete
+robots
+index, follow
+googlebot
+index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1
+SOCIAL
+
+WARNING og:image missing
+property
+og:title
+Terms & Conditions - Phantom Healthcare
+property
+og:description
+Terms and conditions for Phantom Healthcare medical imaging equipment and services.
+property
+og:url
+https://phantomhealthcare.com/terms-and-conditions
+property
+og:site_name
+Phantom Healthcare
+property
+og:locale
+en_IN
+property
+og:type
+website
+twitter:card
+summary
+twitter:creator
+@Phantomhealthc
+twitter:title
+Terms & Conditions - Phantom Healthcare
+twitter:description
+Service agreement and policies for Phantom Healthcare.
+STRUCTURED DATA
+The following is a rough representation of the found structured data, for more insights please test here:
+•
+Schema Markup Validator
+
+•
+Google Rich Results Test
+@type: BreadcrumbList
+@type: ListItem name: Home
+@type: ListItem name: Terms & Conditions
+@type: WebPage name: Terms & Conditions - Phantom Healthcare
+@type: SpeakableSpecification
+@type: Organization name: Phantom Healthcare IND Private Limited
+dc.title
+Phantom Healthcare - Medical Imaging Equipment
+dc.creator
+Phantom Healthcare IND Private Limited
+dc.subject
+Medical Imaging Equipment, MRI, CT Scanner, PET-CT
+dc.description
+India's leading provider of refurbished medical imaging equipment since 2011.
+dc.publisher
+Phantom Healthcare IND Private Limited
+dc.contributor
+Phantom Healthcare
+dc.date
+2011
+dc.type
+Service
+dc.format
+text/html
+dc.identifier
+https://phantomhealthcare.com
+dc.language
+en
+dc.coverage
+India, USA, UAE
+MOBILE
+handheldfriendly
+true
+mobileoptimized
+width
+mobile-web-app-capable
+yes
+apple-mobile-web-app-title
+Phantom Healthcare
+viewport
+width=device-width, initial-scale=1
+MARKUP
+
+<html>
+(1)
+
+<img>
+(6)
+
+<iframe>
+(1)
+
+WARNING H1 should be 20-70 characters(18 characters)
+h1 Terms & Conditions (18 characters)
+h2 Introduction (12 characters)
+h2 Definitions (11 characters)
+h2 Equipment Sales Terms (21 characters)
+h3 Quotations (10 characters)
+h3 Orders and Acceptance (21 characters)
+h3 Payment Terms (13 characters)
+h2 Delivery and Installation (25 characters)
+h3 Delivery (8 characters)
+h3 Site Requirements (17 characters)
+h3 Installation (12 characters)
+h2 Warranty Terms (14 characters)
+h3 Standard Warranty (17 characters)
+h3 Warranty Exclusions (19 characters)
+h3 Warranty Claims (15 characters)
+h2 AMC/CMC Service Terms (21 characters)
+h3 Annual Maintenance Contract (AMC) (33 characters)
+h3 Comprehensive Maintenance Contract (CMC) (40 characters)
+h3 Service Response (16 characters)
+h2 Customer Responsibilities (25 characters)
+h2 Limitation of Liability (23 characters)
+h2 Intellectual Property (21 characters)
+h2 Dispute Resolution (18 characters)
+h2 Website Use (11 characters)
+h2 Changes to These Terms (22 characters)
+h2 Contact Us (10 characters)
+h2 Have Questions About Our Terms? (31 characters)
+h4 Useful Links (12 characters) INFOfound h4, h3 expected
+h4 Our Services (12 characters)
+WARNING 24 links without anchor text or image
+internal
+ 
+(44)
+-
+external
+ 
+(26)
+-
+other
+ 
+(16)
+internal
+URL	REL	TEXT	TITLE	IMG
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/about		About Us		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Products		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		MRI Scanner▶		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-ge-mri-scanner-machines		GE MRI		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-siemens-mri-scanner-machines		Siemens MRI		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-ct-scan-machines		CT Scanner		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-pet-ct-scanner-machines		PET-CT Scanner		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-cath-lab-machines		Cath-Lab		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-gamma-camera-spect-system-machine		Gamma Camera-SPECT		
+https://nextjs-phantom.vercel.app/product-pages/refurbished-bone-densitometer-dexa		Bone Desnsitometer-DEXA		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Services		
+https://nextjs-phantom.vercel.app/services#service-packages		Service Packages		
+https://nextjs-phantom.vercel.app/services#repairs-and-upgrdaes		Repairs and Upgrades		
+https://nextjs-phantom.vercel.app/spare-parts-and-inventory		Spare Parts and Inventory		
+https://nextjs-phantom.vercel.app/blogs		Blogs		
+https://nextjs-phantom.vercel.app/contact		Contact		
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/about		About Us		
+https://nextjs-phantom.vercel.app/blogs		Blogs		
+https://nextjs-phantom.vercel.app/contact		Contact		
+https://nextjs-phantom.vercel.app/		Home		
+https://nextjs-phantom.vercel.app/contact		Contact Us		
+https://nextjs-phantom.vercel.app/				yes
+https://nextjs-phantom.vercel.app/terms-and-conditions#		1.5T MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		3.0T MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Siemens MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		GE MRI Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		CT Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		PET-CT Scanner Machines		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		News and Events		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Blogs		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		CMC/AMC Packages For CT		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		CMC/AMC Packages For MRI		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Equipment Installation		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		Site Planning & Construction		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		MRI Helium Filling		
+https://nextjs-phantom.vercel.app/terms-and-conditions#		MRI De-Installation & Re-Installation		
+https://nextjs-phantom.vercel.app/privacy-policy		Privacy Policy		
+https://nextjs-phantom.vercel.app/faqs		FAQs		
+https://nextjs-phantom.vercel.app/terms-and-conditions		Terms & Conditions		
+https://nextjs-phantom.vercel.app/sitemap		Sitemap		
+external
+URL	REL	TEXT	TITLE	IMG
+https://twitter.com/Phantomhealthc				
+https://wa.me/+919899963601				
+https://www.youtube.com/@phantomhealthcare				
+https://goo.gl/maps/2fdRZT8hEBVK4cni9				
+https://www.instagram.com/phantomhealthcare/				
+https://www.facebook.com/phantom.healthcare.ind				
+https://www.pinterest.com/phantomhealthcare/				
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company				
+https://www.phantomis.co.in/		Employee Login		
+https://twitter.com/Phantomhealthc				
+https://wa.me/+919899963601				
+https://www.youtube.com/@phantomhealthcare				
+https://goo.gl/maps/2fdRZT8hEBVK4cni9				
+https://www.instagram.com/phantomhealthcare/				
+https://www.facebook.com/phantom.healthcare.ind				
+https://www.pinterest.com/phantomhealthcare/				
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company				
+https://www.phantomis.co.in/		Employee Login		
+https://wa.me/919899963601			Chat with us on WhatsApp	
+https://twitter.com/Phantomhealthc	noopener noreferrer			
+https://wa.me/919899963601	noopener noreferrer			
+https://www.youtube.com/@phantomhealthcare	noopener noreferrer			
+https://www.instagram.com/phantomhealthcare/	noopener noreferrer			
+https://www.facebook.com/phantom.healthcare.ind	noopener noreferrer			
+https://www.pinterest.com/phantomhealthcare/	noopener noreferrer			
+https://in.linkedin.com/company/phantom-healthcare-ind-private-limited-company	noopener noreferrer			
+other
+URL	REL	TEXT	TITLE	IMG
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+mailto:service@phantomhealthcare.com		service@phantomhealthcare.com		
+mailto:biz@phantomhealthcare.com		biz@phantomhealthcare.com		
+tel:+919899963601		+91 9899963601		
+tel:+919899963601		+91 9899963601		
+tel:+918384037073		+91 8384037073		
+tel:+911294312423		+91 129 4312423		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+mailto:biz@phantomhealthcare.com		biz@phantomhealthcare.com		
+tel:+919899963601		+91 9899963601		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+tel:+16307206801		+1 630 720 6801		
+mailto:info@phantomhealthcare.com		info@phantomhealthcare.com		
+tel:+971522208819		+971 522 208 819		
+mailto:sachin.rawat@phantomhealthcare.com		sachin.rawat@phantomhealthcare.com		
+INFO 6 images (out of 6) with missing TITLE attribute
+INFO 2 images (out of 6) with missing LOADING attribute
+SRC	SIZE	LOADING	FETCH PR.	ALT	TITLE
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Flogo.jpg&w=640&q=75
+SRCSET: available
+REAL	130x47
+HTML	222x80
+auto	Phantom Healthcare Logo	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Flogo.jpg&w=384&q=75
+SRCSET: available
+REAL	130x47
+HTML	155x56
+auto	Phantom Healthcare Logo	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fwhite-logo.png&w=384&q=75
+SRCSET: available
+REAL	192x115
+HTML	180x55
+lazy	auto	Phantom Healthcare	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Findia-flag.jpg&w=48&q=75
+SRCSET: available
+REAL	24x16
+HTML	24x16
+lazy	auto	India & Sub-Continent	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fusa-map.jpg&w=48&q=75
+SRCSET: available
+REAL	24x12
+HTML	24x16
+lazy	auto	USA & Western	
+
+https://nextjs-phantom.vercel.app/_next/image?url=%2Fimages%2Fuae-flag.jpg&w=48&q=75
+SRCSET: available
+REAL	24x16
+HTML	24x16
+lazy	auto	Gulf-Arab & African	
+SRC
+WIDTH
+HEIGHT
+LOADING
+ALLOWFULLSCREEN
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23594.600297204677!2d77.29099839249344!3d28.46875377374462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce746b47731c5%3A0x696a695f7e4c3ded!2sPhantom%20Healthcare%20Pvt%20Ltd.!5e0!3m2!1sen!2sin!4v1663418936010!5m2!1sen!2sin			lazy	true
+Doctype is HTML5, there are HTML5 tags and no obsolete HTML tags were found.
+★
+★
+★
+★
+★
+EXTERNAL RESOURCES
+
+5 items
+vercel.live			n.a.
+www.googletagmanager.com	(4)		ANALYTICS
+www.gstatic.com	(2)		CDN
+cdn.jsdelivr.net			DEV TOOLS
+connect.facebook.net	(2)		SOCIAL
+RESOURCE HINTS
+preload
+(as image) (fetchpriority=auto)
+preload
+(as image) (fetchpriority=auto)
+preload
+(as script) (fetchpriority=low)
+https://nextjs-phantom.vercel.app/_next/static/chunks/webpack-f0cd9998a051b730.js
+preload
+(as script) (fetchpriority=auto)
+https://www.googletagmanager.com/gtag/js?id=G-WKQZP6J4CR
+preconnect
+(fetchpriority=auto)
+https://fonts.googleapis.com/
+preconnect
+(fetchpriority=auto)
+https://fonts.gstatic.com/
+dns-prefetch
+(fetchpriority=auto)
+https://yt3.ggpht.com/
+preconnect
+(fetchpriority=auto)
+https://cdnjs.cloudflare.com/
+dns-prefetch
+(fetchpriority=auto)
+https://img.youtube.com/
+preload
+(as image) (fetchpriority=high)
+https://nextjs-phantom.vercel.app/images/slideshow/img1-mobile.jpg
+preload
+(as style) (fetchpriority=auto)
+https://nextjs-phantom.vercel.app/_next/static/css/772f6661360af590.css
+Url
+COMMON
+SOCIAL
+STRUCTURED DATA
+MOBILE
+MARKUP
+EXTERNAL RESOURCES
+RESOURCE HINTS
+print
